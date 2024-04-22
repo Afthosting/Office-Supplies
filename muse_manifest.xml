@@ -1,0 +1,131 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="alfarooqofficesupplies.com" resolutions="1x" timestamp="1503816551309">
+  <folder name="assets">
+    <file name="company-profile2" crc="3813296090" seo="true" mt="1503754266000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3954527492" ref="blank3:contact:brands:about-us:blank2:index:products:blank:clients"/>
+    <file name="blank3.css" crc="4109500002" ref="blank3"/>
+    <file name="iefonts_blank3.css" crc="4156281983" ref="blank3"/>
+    <file name="contact.css" crc="29405702" ref="contact"/>
+    <file name="iefonts_contact.css" crc="103004867" ref="contact"/>
+    <file name="brands.css" crc="4084595482" ref="brands"/>
+    <file name="iefonts_brands.css" crc="4029373948" ref="brands"/>
+    <file name="about-us.css" crc="8034042" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="3800547586" ref="about-us"/>
+    <file name="blank2.css" crc="4109500002" ref="blank2"/>
+    <file name="iefonts_blank2.css" crc="4156281983" ref="blank2"/>
+    <file name="index.css" crc="227181075" ref="index"/>
+    <file name="iefonts_index.css" crc="3897903006" ref="index"/>
+    <file name="products.css" crc="3781873013" ref="products"/>
+    <file name="iefonts_products.css" crc="356044628" ref="products"/>
+    <file name="blank.css" crc="4109500002" ref="blank"/>
+    <file name="iefonts_blank.css" crc="4156281983" ref="blank"/>
+    <file name="clients.css" crc="52695066" ref="clients"/>
+    <file name="iefonts_clients.css" crc="450147245" ref="clients"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="require.js" crc="244322403" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="393210340" ref="index"/>
+    <file name="slide-01.jpg" crc="17642464" ref="index"/>
+    <file name="alfarroq-logo.png" crc="4229861567" seo="true" ref="index:about-us:products:brands:contact:clients"/>
+    <file name="stationery.png" crc="403446924" ref="index"/>
+    <file name="paper.png" crc="3765495818" ref="index"/>
+    <file name="art-materials.png" crc="4272777421" ref="index"/>
+    <file name="technology.png" crc="375623923" ref="index"/>
+    <file name="logo-01.jpg" crc="4133508666" seo="true" ref="index"/>
+    <file name="logo-02.jpg" crc="225337098" seo="true" ref="index"/>
+    <file name="logo-03.jpg" crc="4109596110" seo="true" ref="index"/>
+    <file name="logo-04.jpg" crc="505117431" seo="true" ref="index"/>
+    <file name="logo-05.jpg" crc="4254716412" seo="true" ref="index"/>
+    <file name="logo-06.jpg" crc="96169637" seo="true" ref="index"/>
+    <file name="social-01.png" crc="3957847235" seo="true" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="social-02.png" crc="385087639" seo="true" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="social-03.png" crc="287136933" seo="true" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="social-04.png" crc="94400947" seo="true" ref="index:about-us:products:brands:contact:blank:blank2:blank3:clients"/>
+    <file name="slide-inside.jpg" crc="4123195658" ref="about-us:products:brands:contact:clients"/>
+    <file name="11590907-set-of-stationery-items.jpg" crc="93442893" seo="true" ref="about-us"/>
+    <file name="files.jpg" crc="3857040106" seo="true" ref="products"/>
+    <file name="paper.jpg" crc="4196362110" seo="true" ref="products"/>
+    <file name="writing.jpg" crc="3916591446" seo="true" ref="products"/>
+    <file name="binding.jpg" crc="130922348" seo="true" ref="products"/>
+    <file name="computer-accessories.jpg" crc="4077700456" seo="true" ref="products"/>
+    <file name="18.jpg" crc="413358332" seo="true" ref="brands"/>
+    <file name="20.jpg" crc="4092779372" seo="true" ref="brands"/>
+    <file name="21.jpg" crc="4115837205" seo="true" ref="brands"/>
+    <file name="23.jpg" crc="418038430" seo="true" ref="brands"/>
+    <file name="27.jpg" crc="4272845511" seo="true" ref="brands"/>
+    <file name="u2782-51.png" crc="472475860" ref="products"/>
+    <file name="u2785-51.png" crc="4140201208" ref="products"/>
+    <file name="box.jpg" crc="4249919714" seo="true" ref="products"/>
+    <file name="bindingl.jpg" crc="4087973184" seo="true" ref="products"/>
+    <file name="sh.jpg" crc="4176151121" seo="true" ref="products"/>
+    <file name="ton.jpg" crc="4204798691" seo="true" ref="products"/>
+    <file name="whiyt.jpg" crc="4169352321" seo="true" ref="products"/>
+    <file name="batt.jpg" crc="4262327548" seo="true" ref="products"/>
+    <file name="clipspin.jpg" crc="395316661" seo="true" ref="products"/>
+    <file name="cabi.jpg" crc="30911856" seo="true" ref="products"/>
+    <file name="envelops.jpg" crc="294560471" seo="true" ref="products"/>
+    <file name="desk.jpg" crc="3809698192" seo="true" ref="products"/>
+    <file name="pack.jpg" crc="71131710" seo="true" ref="products"/>
+    <file name="stamp.jpg" crc="4158765918" seo="true" ref="products"/>
+    <file name="sign stamp.jpg" crc="44061032" seo="true" ref="products"/>
+    <file name="menu.jpg" crc="3974291077" seo="true" ref="products"/>
+    <file name="stickyno.jpg" crc="108775129" seo="true" ref="products"/>
+    <file name="dairies.jpg" crc="4068186407" seo="true" ref="products"/>
+    <file name="la.jpg" crc="53864290" seo="true" ref="products"/>
+    <file name="note.jpg" crc="3822355752" seo="true" ref="products"/>
+    <file name="pem.jpg" crc="3913025288" seo="true" ref="products"/>
+    <file name="instr.jpg" crc="4246869736" seo="true" ref="products"/>
+    <file name="gems.jpg" crc="484440506" seo="true" ref="clients"/>
+    <file name="alpha.jpg" crc="460921599" seo="true" ref="clients"/>
+    <file name="bukhatir.jpg" crc="61801234" seo="true" ref="clients"/>
+    <file name="unitra.jpg" crc="350624066" seo="true" ref="clients"/>
+    <file name="zaabeel.jpg" crc="4206582006" seo="true" ref="clients"/>
+    <file name="apple.jpg" crc="436399119" seo="true" ref="clients"/>
+    <file name="verve.jpg" crc="300130294" seo="true" ref="clients"/>
+    <file name="design.jpg" crc="3941245703" seo="true" ref="clients"/>
+    <file name="rasasi.jpg" crc="159225641" seo="true" ref="clients"/>
+    <file name="lattafa.jpg" crc="441849224" seo="true" ref="clients"/>
+    <file name="samawa.jpg" crc="419774789" seo="true" ref="clients"/>
+    <file name="baug.jpg" crc="4019909269" seo="true" ref="clients"/>
+    <file name="le.jpg" crc="4097142574" seo="true" ref="clients"/>
+    <file name="indu.jpg" crc="3895912744" seo="true" ref="clients"/>
+    <file name="fellowes.jpg" crc="3858592826" seo="true" ref="brands"/>
+    <file name="konica.jpg" crc="516799821" seo="true" ref="brands"/>
+    <file name="hp.jpg" crc="524463980" seo="true" ref="brands"/>
+    <file name="toshiba.jpg" crc="207161158" seo="true" ref="brands"/>
+    <file name="dymo.jpg" crc="4258582453" seo="true" ref="brands"/>
+    <file name="3m.jpg" crc="3903642255" seo="true" ref="brands"/>
+    <file name="4cc.jpg" crc="3921840920" seo="true" ref="brands"/>
+    <file name="energ.jpg" crc="4073368253" seo="true" ref="brands"/>
+    <file name="trodat.jpg" crc="4263768251" seo="true" ref="brands"/>
+    <file name="sax.jpg" crc="3828231355" seo="true" ref="brands"/>
+    <file name="elba.jpg" crc="348021640" seo="true" ref="brands"/>
+    <file name="parker.jpg" crc="469060024" seo="true" ref="brands"/>
+    <file name="alba.jpg" crc="169267715" seo="true" ref="brands"/>
+    <file name="conq.jpg" crc="4076290441" seo="true" ref="brands"/>
+    <file name="pentel.jpg" crc="241654087" seo="true" ref="brands"/>
+    <file name="xerox.jpg" crc="4021933835" seo="true" ref="brands"/>
+    <file name="leitz.jpg" crc="85241131" seo="true" ref="brands"/>
+    <file name="download.jpg" crc="4066065220" seo="true" ref="index:about-us:products:clients:brands:contact:blank:blank2:blank3"/>
+  </folder>
+  <file name="index.html" crc="3898550237" seo="true" mt="1503816415657" redirect="true"/>
+  <file name="about-us.html" crc="520766599" seo="true" mt="1503816415657" redirect="true"/>
+  <file name="products.html" crc="157179657" seo="true" mt="1503816415657" redirect="true"/>
+  <file name="brands.html" crc="101702894" seo="true" mt="1503816415657" redirect="true"/>
+  <file name="contact.html" crc="3836857301" seo="true" mt="1503816415657" redirect="true"/>
+  <file name="blank.html" crc="170165152" seo="true" mt="1503816415657" redirect="true"/>
+  <file name="blank2.html" crc="145808787" seo="true" mt="1503816415657" redirect="true"/>
+  <file name="blank3.html" crc="384820632" seo="true" mt="1503816415657" redirect="true"/>
+  <file name="clients.html" crc="3833730979" seo="true" mt="1503816415657" redirect="true"/>
+</manifest>
